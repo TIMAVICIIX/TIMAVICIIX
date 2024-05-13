@@ -1,4 +1,4 @@
-<h1 align="center"><img src="imageSoruce/robo_logo.png" alt="Robo" width="20" height="20">&nbsp;Robo&nbsp;Logic&nbsp;<img src="imageSoruce/robo_logo.png" alt="Robo" width="20" height="20"></h1>
+<h1 align="center"><img src="imageSource/robo_logo.png" alt="Robo" width="20" height="20">&nbsp;Robo&nbsp;Logic&nbsp;<img src="imageSource/robo_logo.png" alt="Robo" width="20" height="20"></h1>
 
 <h4 align="center">📺Robo.T&emsp;|&emsp;🎓College Student&emsp;|&emsp; ⭐GuiZhou-China</h4>
 
@@ -84,35 +84,20 @@ Web开发类语言🌏[Web Development Languages]:<br>
 
 
 
-<div align="center"><img src="imageSoruce/Robo‘s_cut.png" style="height:150px" alt="我们仨"></div>
+<div align="center"><img src="imageSource/Robo‘s_cut.png" style="height:150px" alt="我们仨"></div>
 
 ***
 
-<div align="center" style="display: flex;justify-content: space-around">
 
-<div>
-<b>承诺<br>Commitment</b>
-</div>
 
-<div>
-<b>勇气<br>Courage</b>
-</div>
+<div align="center">
 
-<div>
-<b>专注<br>Focus</b>
-</div>
+<b>承诺&emsp;•&emsp;勇气&emsp;•&emsp;专注&emsp;•&emsp;开放&emsp;•&emsp;尊重&emsp;•&emsp;主动</b><br>
+<b>Commitment&emsp;•&emsp;Courage&emsp;•&emsp;Focus&emsp;•&emsp;Openness&emsp;•&emsp;Respect&emsp;•&emsp;Initiative</b>
 
-<div>
-<b>开放<br>Openness</b>
-</div>
+<br>
 
-<div>
-<b>尊重<br>Respect</b>
-</div>
-
-<div>
-<b>主动<br>Initiative</b>
-</div>
+Robo&nbsp;Logic&nbsp;©2024
 
 </div>
 
