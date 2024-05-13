@@ -94,31 +94,31 @@ Web开发类语言🌏[Web Development Languages]:<br>
 <b>承诺<br>Commitment</b>
 </div>
 
-*
+•
 
 <div>
 <b>勇气<br>Courage</b>
 </div>
 
-*
+•
 
 <div>
 <b>专注<br>Focus</b>
 </div>
 
-*
+•
 
 <div>
 <b>开放<br>Openness</b>
 </div>
 
-*
+•
 
 <div>
 <b>尊重<br>Respect</b>
 </div>
 
-*
+•
 
 <div>
 <b>主动<br>Initiative</b>
