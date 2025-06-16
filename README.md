@@ -1,17 +1,16 @@
-<h1 align="center"><img src="imageSource/robo_logo.png" alt="Robo" width="20" height="20">&nbsp;Robo&nbsp;Logic&nbsp;<img src="imageSource/robo_logo.png" alt="Robo" width="20" height="20"></h1>
+<h1 align="center">&nbsp;Robo&nbsp;Timaviciix&nbsp;</h1>
 
-<h4 align="center">📺Robo.T&emsp;|&emsp;🎓College Student&emsp;|&emsp; ⭐GuiZhou-China</h4>
+<h4 align="center">🦊Robo.T&emsp;|&emsp;🎓College Student&emsp;|&emsp; ⭐GuiZhou-China</h4>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-reddbortmas32814766@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reddbortmas32814766@gmail.com)](mailto:reddbortmas32814766@gmail.com)<br>
 [![Outlook Badge](https://img.shields.io/badge/-timaviciix@outlook.com-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:timaviciix@outlook.com)](mailto:timaviciix@outlook.com)
 
 ***
 
-#### &emsp;嗨各位好😀！我是📺Robo.Timaviciix[昵称]📺,截至目前（2024年），我仍然是一名贵州在校大学生；我就读与本大学的计算机与信息学院，软件工程专业。我一直认为只有开源才能够加速人类进步；因此我希望也在这条路上贡献出自己的一份力量！
+#### &emsp;嗨各位好😀！我是Robo.Timaviciix[昵称],截至目前（2025年6月），我仍然是一名贵州在校大学生；我就读与本大学的计算机与信息学院，软件工程专业。我一直认为只有开源才能够加速人类进步；因此我希望也在这条路上贡献出自己的一份力量！
 
 
-#### &emsp;Hi there😀,I'm 📺Robo.Timaviciix[NickName]📺;As of today (2024), I am still a university student in Guizhou; I am studying in the School of Computer Science and Information Technology at my university, majoring in Software Engineering.I have always believed that only open source can accelerate the progress of mankind; Therefore, I hope to contribute to this path!
+#### &emsp;Hi there😀,I'm Robo.Timaviciix[NickName];As of today (2024), I am still a university student in Guizhou; I am studying in the School of Computer Science and Information Technology at my university, majoring in Software Engineering.I have always believed that only open source can accelerate the progress of mankind; Therefore, I hope to contribute to this path!
 
 #### 2024.5.12<br>Robo.Timaviciix
 
@@ -76,17 +75,7 @@ Web开发类语言🌏[Web Development Languages]:<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMAVICIIX&layout=compact)
 
-***
 
-<div align="center"><h3><b>Robo开源项目的企划<br>Robo Open Source Plan</b></h3></div>
-
-#### &emsp;自从2021年我接触计算机与编程开始,我就在无偿使用各个编程领域的开源软件及构件;当我逐渐了解了开源对人类的重要意义后,我花了许多时间去学习各种知识。我希望能够在人类对于计算机思想的共享计划上做出一份自己的贡献!<br><br>&emsp;Since my introduction to computers and programming in 2021, I have been using open source software and components in various programming areas for free; I have spent a lot of time learning about open source as I have come to understand its significance to mankind. I hope to make a contribution to the human computer idea sharing program!<br><br>&emsp;过一段时间后,我将开始采用Kotlin进行Android共享构件AAR的制作,我希望我的构件能够缩短Android移动软件的开发过程!<br><br>&emsp;After a while, I will start to use Kotlin for Android shared artifacts AAR, I hope my artifacts can shorten the process of Android mobile software development!<br><br>2024<br>Robo.Timaviciix
-
-
-
-<div align="center"><img src="imageSource/Robo‘s_cut.png" style="height:150px" alt="我们仨"></div>
-
-***
 
 
 
@@ -97,7 +86,7 @@ Web开发类语言🌏[Web Development Languages]:<br>
 
 <br>
 
-Robo&nbsp;Logic&nbsp;©2024
+Robo&nbsp;Timaviciix&nbsp;2025
 
 </div>
 
