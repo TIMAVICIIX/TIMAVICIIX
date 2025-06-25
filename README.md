@@ -76,7 +76,7 @@ Web开发类语言🌏[Web Development Languages]:<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMAVICIIX&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![TIMAVICIIX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TIMAVICIIX&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
