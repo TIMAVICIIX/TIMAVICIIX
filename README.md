@@ -2,24 +2,22 @@
 
 <h4 align="center">🦊Robo.T&emsp;|&emsp;🎓College Student&emsp;|&emsp; ⭐GuiZhou-China</h4>
 
-
 [![Outlook Badge](https://img.shields.io/badge/-timaviciix@outlook.com-0078d4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:timaviciix@outlook.com)](mailto:timaviciix@outlook.com)
 
 ***
 
 #### &emsp;嗨各位好😀！我是Robo.Timaviciix[昵称],截至目前（2025年6月），我是一名软件工程专业的应届毕业生。我一直认为只有开源才能够加速人类进步；因此我希望也在这条路上贡献出自己的一份力量！
 
-
 #### &emsp;Hi there😀,I'm Robo.Timaviciix[NickName]; As of now (June 2025), I am a recent graduate majoring in Software Engineering. I have always believed that open source is the key to accelerating human progress; therefore, I hope to contribute my part on this path!
 
-
-#### 2024.5.12<br>Robo.Timaviciix
+#### 2024.06.25<br>Robo.Timaviciix
 
 #### 与我交流吧!<br>Try contacting me!
 
 ***
 
 ### 我已学习的编程语言[Programming Languages Learned]:<br>
+
 系统编程类语言🖥[Systems Programming Languages]:<br>
 &emsp;[![C](https://img.shields.io/badge/-%20C%20-A8B9CC?style=flat-square&logo=c&logoColor=black)](C%20Language)
 &emsp;[![C](https://img.shields.io/badge/-%20C++%20-512BD4?style=flat-square&logo=cplusplus&logoColor=white)](C++%20Language)
@@ -71,6 +69,14 @@ Web开发类语言🌏[Web Development Languages]:<br>
 <br>
 &emsp;[![C](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)](Spring%20Boot%20Language)
 &emsp;[![C](https://img.shields.io/badge/-Unreal%20Engine-FFFFFF?style=flat-square&logo=unrealengine&logoColor=black)](Spring%20Boot%20Language)
+
+***
+
+<div align="center">
+
+
+
+</div>
 
 ***
 
