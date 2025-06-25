@@ -7,10 +7,11 @@
 
 ***
 
-#### &emsp;嗨各位好😀！我是Robo.Timaviciix[昵称],截至目前（2025年6月），我仍然是一名贵州在校大学生；我就读与本大学的计算机与信息学院，软件工程专业。我一直认为只有开源才能够加速人类进步；因此我希望也在这条路上贡献出自己的一份力量！
+#### &emsp;嗨各位好😀！我是Robo.Timaviciix[昵称],截至目前（2025年6月），我是一名软件工程专业的应届毕业生。我一直认为只有开源才能够加速人类进步；因此我希望也在这条路上贡献出自己的一份力量！
 
 
-#### &emsp;Hi there😀,I'm Robo.Timaviciix[NickName];As of today (2024), I am still a university student in Guizhou; I am studying in the School of Computer Science and Information Technology at my university, majoring in Software Engineering.I have always believed that only open source can accelerate the progress of mankind; Therefore, I hope to contribute to this path!
+#### &emsp;Hi there😀,I'm Robo.Timaviciix[NickName]; As of now (June 2025), I am a recent graduate majoring in Software Engineering. I have always believed that open source is the key to accelerating human progress; therefore, I hope to contribute my part on this path!
+
 
 #### 2024.5.12<br>Robo.Timaviciix
 
@@ -75,7 +76,7 @@ Web开发类语言🌏[Web Development Languages]:<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIMAVICIIX&layout=compact)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
